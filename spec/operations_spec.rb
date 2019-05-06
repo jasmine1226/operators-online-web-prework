@@ -43,5 +43,5 @@ describe "Operations" do
       expect(match).to include("?")
     end
   end
-  
+
 end
